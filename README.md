@@ -213,8 +213,6 @@ display(buttons)
 Here is the implementation of the graphs for showing the data of the robot. There are three graphs:
 
 ### Position of the robot using LaserScan data.
-### current position of the robot using Radar vision.
-### Reaching the Goal status of the robot.
 
 ![laser_data](https://github.com/Roofi67/RT2_Assignment03/assets/95746070/217fc85a-54f8-4592-81ad-246cf6d6a07d)
 
